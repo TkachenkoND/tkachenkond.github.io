@@ -5,56 +5,72 @@
     "isFavorites": true,
     "itemBackgroundImg": "https://images.template.net/wp-content/uploads/2015/08/Butterfly-Backgrounds.jpg",
     "rating": 10,
-    "questDescription": ""
+    "questDescription": "",
+    "dataQuest": "06.06.22",
+    "nameQuest": "Quest1"
     },
     {
     "questsId": 1,
     "isFavorites": false,
     "itemBackgroundImg": "https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?cs=srgb&dl=pexels-abdullah-ghatasheh-1631677.jpg&fm=jpg",
     "rating": 6,
-    "questDescription": ""
+    "questDescription": "",
+    "dataQuest": "01.07.22",
+    "nameQuest": "Quest2"
     },
     {
     "questsId": 2,
     "isFavorites": true,
     "itemBackgroundImg": "https://images.all-free-download.com/images/graphiclarge/blue_abstract_background_310971.jpg",
     "rating": 7,
-    "questDescription": ""
+    "questDescription": "",
+    "dataQuest": "10.06.22",
+    "nameQuest": "Quest3"
     },
     {
     "questsId": 3,
     "isFavorites": false,
     "itemBackgroundImg": "https://png.pngtree.com/thumb_back/fh260/background/20190831/pngtree-pastel-colorful-background-clouds-image_312444.jpg",
     "rating": 7,
-    "questDescription": ""
+    "questDescription": "",
+    "dataQuest": "09.08.22",
+    "nameQuest": "Quest4"
     },
     {
     "questsId": 4,
     "isFavorites": false,
     "itemBackgroundImg": "https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__340.png",
     "rating": 8,
-    "questDescription": ""
+    "questDescription": "",
+    "dataQuest": "11.09.22",
+    "nameQuest": "Quest5"
     },
     {
     "questsId": 5,
     "isFavorites": false,
     "itemBackgroundImg": "https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg?w=2000",
     "rating": 10,
-    "questDescription": ""
+    "questDescription": "",
+    "dataQuest": "03.07.22",
+    "nameQuest": "Quest6"
     },
     {
     "questsId": 6,
     "isFavorites": false,
     "itemBackgroundImg": "https://i.pinimg.com/736x/46/cb/ae/46cbaef61fee8c95ae6a4f5170779070.jpg",
     "rating": 8,
-    "questDescription": ""
+    "questDescription": "",
+    "dataQuest": "19.06.22",
+    "nameQuest": "Quest7"
     },
     {
     "questsId": 7,
     "isFavorites": false,
     "itemBackgroundImg": "https://www.teahub.io/photos/full/271-2719188_royalty-free-wallpapers-green-background-copyright-free.jpg",
     "rating": 9,
-    "questDescription": ""
+    "questDescription": "",
+    "dataQuest": "20.07.22",
+    "nameQuest": "Quest8"
     }
 ]
 
