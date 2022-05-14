@@ -50,7 +50,9 @@
     "rating": 8,
     "questDescription": "",
     "dataQuest": "11.09.22",
-    "nameQuest": "Quest5"
+    "nameQuest": "Quest5",
+    "placeStartQuest": "Cherkassy",
+    "imgDetailsQuest": "https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__340.png"
     },
     {
     "questsId": 5,
