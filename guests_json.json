@@ -88,5 +88,72 @@
     "placeStartQuest": "Cherkassy",
     "imgDetailsQuest": "https://www.teahub.io/photos/full/271-2719188_royalty-free-wallpapers-green-background-copyright-free.jpg"
     }
+],
+
+"questsTasks": [
+    {
+    "questsId": 0,
+    "textTask": "",
+    "answerTask": "",
+    "accessCode": "12345",
+    "latitude": 49.441172,
+    "longitude": 32.064368
+    },
+    {
+    "questsId": 1,
+    "textTask": "",
+    "answerTask": "",
+    "accessCode": "12345",
+    "latitude": 49.441172,
+    "longitude": 32.064368
+    },
+    {
+    "questsId": 2,
+    "textTask": "",
+    "answerTask": "",
+    "accessCode": "12345",
+    "latitude": 49.441172,
+    "longitude": 32.064368
+    },
+    {
+    "questsId": 3,
+    "textTask": "",
+    "answerTask": "",
+    "accessCode": "12345",
+    "latitude": 49.441172,
+    "longitude": 32.064368
+    },
+    {
+    "questsId": 4,
+    "textTask": "",
+    "answerTask": "",
+    "accessCode": "12345",
+    "latitude": 49.441172,
+    "longitude": 32.064368
+    },
+    {
+    "questsId": 5,
+    "textTask": "",
+    "answerTask": "",
+    "accessCode": "12345",
+    "latitude": "",
+    "longitude": ""
+    },
+    {
+    "questsId": 6,
+    "textTask": "",
+    "answerTask": "",
+    "accessCode": "12345",
+    "latitude": 49.441172,
+    "longitude": 32.064368
+    },
+    {
+    "questsId": 7,
+    "textTask": "",
+    "answerTask": "",
+    "accessCode": "12345",
+    "latitude": 49.441172,
+    "longitude": 32.064368
+    }
 ]
 }
