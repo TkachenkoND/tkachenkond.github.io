@@ -7,6 +7,6 @@
 
 
 
- "url":"https://pin-up.ua" 
+ "url":"" 
  
 }
