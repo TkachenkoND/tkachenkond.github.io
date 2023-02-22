@@ -1,0 +1,12 @@
+{
+  
+ "usecontry":"au,br,ua",
+   "au":"",
+   "br":"",
+   "ua":"https://pin-up.ua",
+
+
+
+ "url":"https:/domain/organic?",   
+ 
+}
