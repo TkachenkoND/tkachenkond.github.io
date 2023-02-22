@@ -1,12 +1,12 @@
 {
   
- "usecontry":"au,br,ua",
-   "au":"",
-   "br":"",
+ "usercountry":"au,br,ua",
+   "au":"https://www.google.com",
+   "br":"https://www.google.com",
    "ua":"https://pin-up.ua",
 
 
 
- "url":"https:/domain/organic?",   
+ "url":"https://pin-up.ua" 
  
 }
